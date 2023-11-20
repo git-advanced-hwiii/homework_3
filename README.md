@@ -1,4 +1,5 @@
-# gitExt_homework1
-# conflict - different contents of the readme.md file
-in the remote repository and the local folder.
-This is remote repository.
+# Homework_1
+
+This is the local readme.md file
+
+Changes for hard reset
