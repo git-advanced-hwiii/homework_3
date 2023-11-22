@@ -1,5 +1,3 @@
-# Homework_1
+# Homework_3
 
-This is the local readme.md file
-
-Changes for hard reset
+this is a local file readme.md for changes during collaboration
